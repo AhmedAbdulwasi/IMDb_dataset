@@ -5,6 +5,6 @@ Using a dataset that contains 1000+ of movie data and visualizing using python. 
 ## Why?
 This is a challenge that was presented to me by Business Career Hub TRSM to complete in order to get a Python Certification which I did and passed.
 
-## Technologies
+## Languages and Technologies
 - Python (MatPlotLib, Pandas, NumPy)
 
